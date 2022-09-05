@@ -2,7 +2,7 @@ body{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-span{
+.autore{
   color: rgb(4, 185, 250);
 }
 
@@ -12,4 +12,20 @@ span{
 
 .descrizione-img{
   font-size: 11px;
+}
+
+thead{
+  background-color: rgb(5, 83, 253);
+}
+
+tbody{
+  background-color: rgb(58, 156, 222);
+}
+
+.sfondo-bianco{
+  background-color: white;
+}
+
+.evidenziatore{
+  background-color: yellow;
 }
