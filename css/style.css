@@ -1,0 +1,15 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+span{
+  color: rgb(4, 185, 250);
+}
+
+.sottotitolo{
+  color: grey;
+}
+
+.descrizione-img{
+  font-size: 11px;
+}
