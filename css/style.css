@@ -18,10 +18,12 @@ header img {
 
 .sottotitolo{
   color: grey;
+  margin-top: -15px;
 }
 
 .descrizione-img{
   font-size: 0.7em;
+  margin-bottom: -10px;
 }
 
 table {
@@ -52,6 +54,7 @@ thead{
   background-size: cover;
   color: white;
   font-size: 1.5em;
+  text-align: center;
 }
 
 .box-con-img2{
@@ -60,5 +63,11 @@ thead{
   background-size: cover;
   color: white;
   font-size: 1.5em;
+  text-align: center;
 
+}
+
+.interessi{
+  color: grey;
+  margin-top: 50px;
 }
